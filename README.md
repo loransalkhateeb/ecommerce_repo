@@ -4,4 +4,4 @@
 
 ### The tools used in the project are: Firstly, I used Figma for the design, structuring of the project, and the initial visualization of the project. Secondly, I used Visual Studio Code for the purposes of implementing the project, and lastly used the distributed version control system Github to save these project on server
 
-## The link of the project is:https://www.figma.com/file/sTrhb5vfhwADdXaEcZeMI2/Untitled?type=design&node-id=0-1&mode=design&t=ZW8ROfosf3n8S3Nb-0
+## The link of the project is:https://www.figma.com/file/sTrhb5vfhwADdXaEcZeMI2/Untitled?type=design&node-id=0-1&mode=design&t=GmfQ3IIzQGMPukwm-0
